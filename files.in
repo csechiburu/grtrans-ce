@@ -1,0 +1,4 @@
+&files
+ ifile="test.txt",
+ ofile="grtrans.out",
+/
